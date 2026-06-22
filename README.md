@@ -107,6 +107,16 @@ Example endpoints:
 * PDF Report Generation
 * Real-Time Notifications
 
+* ## Key Features
+
+- Dashboard Analytics
+- Aircraft Part Tracking
+- Inspection Management
+- Quality Status Monitoring
+- REST API Integration
+- Search and Filtering
+- CRUD Operations
+
 ## Author
 
 Luu Nguyen
